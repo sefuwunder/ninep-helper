@@ -1,0 +1,4 @@
+c/helper
+c/helper_test
+c/*.o
+c/tests/ports.txt
