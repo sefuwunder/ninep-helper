@@ -1,0 +1,1 @@
+{"description":"Deterministic 9P desk helper: man pages, acme, and the translator, with no model.","name":"ninep-helper","scripts":{"start":"bun src/helper.ts","test":"bun test"},"version":"1.0.0"}
